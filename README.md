@@ -1,6 +1,6 @@
 # 🌐 Personal/Agency Portfolio Website
 
-![Açıklama yazısı]([resim_linki](https://github.com/ramazanozguven/27_Agency-Portfolio-Website/blob/4df7dc0c18459bff306b8e99549a5fba081125c5/Screenshot.png))
+![Açıklama yazısı](https://github.com/ramazanozguven/27_Agency-Portfolio-Website/blob/4df7dc0c18459bff306b8e99549a5fba081125c5/Screenshot.png?raw=true)
 
 ## 🚀 SEO-optimierte, responsive Portfolio-Website mit Next.js
 
